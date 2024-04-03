@@ -1,0 +1,10 @@
+C:\Users\Alumnos MCSD Mañana\Desktop\Back\WCFHostCoches\bin\WCFHostCoches.dll.config
+C:\Users\Alumnos MCSD Mañana\Desktop\Back\WCFHostCoches\bin\WCFHostCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Back\WCFHostCoches\bin\WCFHostCoches.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Back\WCFHostCoches\bin\WFCLogicaCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Back\WCFHostCoches\bin\WFCLogicaCoches.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Back\WCFHostCoches\obj\Debug\WCFHostCoches.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Back\WCFHostCoches\obj\Debug\WCFHostCoches.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Back\WCFHostCoches\obj\Debug\WCFHostC.D4ED0C82.Up2Date
+C:\Users\Alumnos MCSD Mañana\Desktop\Back\WCFHostCoches\obj\Debug\WCFHostCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Back\WCFHostCoches\obj\Debug\WCFHostCoches.pdb
